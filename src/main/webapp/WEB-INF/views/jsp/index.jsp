@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome Practice session.</h2>
+			<h2>Welcome to Practice session.</h2>
 			<h3>Contact @ +91-9502225333,+91-9963232363</h3>
 		</div>	
 	</div>
